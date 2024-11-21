@@ -3437,8 +3437,8 @@
         5
       ],
       "gradeStation": {
-        "status": false,
-        "value": null
+        "status": true,
+        "value": 2
       },
       "stops": 107,
       "縣市": "新竹縣",
